@@ -1,0 +1,33 @@
+{
+  "name": "saintsrp_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaintsRP/SaintsRP_Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaintsRP/SaintsRP_Website/issues"
+  },
+  "homepage": "https://github.com/SaintsRP/SaintsRP_Website#readme",
+  "dependencies": {
+    "connect-mongo": "^4.6.0",
+    "cookie": "^0.4.2",
+    "express": "^4.17.3",
+    "jade": "^0.29.0",
+    "mongoose": "^6.2.8",
+    "nodemailer": "^6.7.3",
+    "passport": "^0.5.2",
+    "passport-facebook": "^3.0.0",
+    "passport-google-oauth": "^2.0.0",
+    "socket.io": "^4.4.1",
+    "underscore": "^1.13.2"
+  }
+}
